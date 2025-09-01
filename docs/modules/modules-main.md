@@ -18,5 +18,5 @@ At some point this will likely need to be a full fledged database, that will hav
 **Question**: Do we represent modules by the output (say a protein or small molecule) or by genetic component? My sense is the former since we care about functional units and many plasmids might correspond to the production of a single small molecule.
 ::: 
 
-- [My first module](./mod-list/module-template/specification)
+- [My first module](./mod-list/module-template/specification.md)
 - [plamGFP](./mod-list/mod-plamGFP/specification.md)
