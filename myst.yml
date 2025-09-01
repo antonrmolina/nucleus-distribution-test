@@ -31,9 +31,9 @@ project:
       children:
         - file: ./docs/collections/collections-main.md
         - file: ./docs/collections/cytosols.md
-          children:
-           - pattern: ./docs/collections/**/*.md
-             hidden: true
+          # children:
+          #  - pattern: ./docs/collections/**/*.md
+          #    hidden: true
         - file: ./docs/collections/cells.md
         - file: ./docs/collections/assemblies.md
         - file: ./docs/collections/ants.md
@@ -49,8 +49,8 @@ project:
         - file: ./docs/modules/modules-main.md
         - pattern: ./docs/modules/mod-list/**/*.md
           hidden: true
-        - pattern: ./docs/collections/**/*
-          hidden: true
+        # - pattern: ./docs/collections/**/*
+        #   hidden: true
     - title: Guides
       children:
         - file: ./docs/guides/developer-handbook.md

@@ -9,8 +9,10 @@ The collection sat on the shelf. It had taken years to build. Some pieces were g
 This cytosol—and believe me, I know cytosols, I've seen many cytosols—this was the most incredible, the most beautiful cytosol you've ever seen, it defeated all the other cellular components by massive margins, tremendous margins, and frankly, the mitochondria didn't even come close!
 
 - [GFP1](./cytosols/instance-template/instance.md)
-- [GFP2](docs/collections/cytosols/instance-template/instance.md)
-- [GFP3](./docs/collections/cytosols/instance-template/instance.md)
+
+<!-- These paths are not valid -->
+<!-- - [GFP2](docs/collections/cytosols/instance-template/instance.md)
+- [GFP3](./docs/collections/cytosols/instance-template/instance.md) -->
 
 ## Cells
 
