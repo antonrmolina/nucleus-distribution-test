@@ -59,9 +59,9 @@ project:
     - title: About
       children:
         - file: ./docs/about/release-notes.md
-          children:
-           - pattern: ./docs/about/release-notes/*
-             hidden: true
+          # children:
+          #  - pattern: ./docs/about/release-notes/*
+          #    hidden: true
         - file: ./docs/about/faqs.md
   resources:
     - docs/**/*
