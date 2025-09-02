@@ -8,12 +8,9 @@ site:
 
 The Nucleus Distribution is an open source package for synthetic cell builders maintained by b.next. The Distribution includes integrated digital tools, biological materials, documentation, and validated protocols for the full process of cell building, including cytosol construction, DNA content engineering, and membrane encapsulation. 
 
-[release notes v0.4.0](./release-notes/release-notes-v-0-4-0.md)
-[release notes v0.4.0](docs/about/release-notes/release-notes-v-0-4-0.md)
-
 Join the mailing list and contact us at build@bnext.bio.
 
-The sixth stable release of the Nucleus Distribution (v0.4.0) is now available. To learn more about the latest updates, check out [](./docs/about/release-notes/release-notes-v0_4_0.md). The Distribution is supported by the Astera Institute, Sloan Foundation, and Caltech.
+The sixth stable release of the Nucleus Distribution (v0.4.0) is now available. To learn more about the latest updates, check out the latest [release notes](docs/about/release-notes/release-notes-v0_4_0.md). The Distribution is supported by the Astera Institute, Sloan Foundation, and Caltech.
 
 :::{card} 
 :header: **Get started** 
