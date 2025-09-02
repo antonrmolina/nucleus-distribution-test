@@ -34,7 +34,7 @@ project:
           children:
            - file: ./docs/collections/cytosols/instance-template/instance.md
              hidden: true
-          - file: ./docs/collections/cytosols/instance-01/instance.md
+           - file: ./docs/collections/cytosols/instance-01/instance.md
              hidden: true
 
           #  - pattern: ./docs/collections/**/*.md
