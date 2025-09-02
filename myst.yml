@@ -66,7 +66,7 @@ project:
         - file: ./docs/about/release-notes.md
           children:
            - file: ./docs/about/release-notes/release-notes-v-0-4-0.md
-            #  hidden: true
+             hidden: true
           #  - pattern: ./docs/about/release-notes/*
           #    hidden: true
         - file: ./docs/about/faqs.md
