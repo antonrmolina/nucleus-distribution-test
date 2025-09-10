@@ -20,42 +20,43 @@ project:
         - file: ./docs/guides/roadmap.md
         - file: ./docs/guides/contribute.md
         - file: .docs/guides/open-science.md
-        - file: ./docs/guides/license.md
         # - file: ./docs/guides/nucleus-hub.md
         # - file: ./docs/guides/developer-notes.md
         # - file: ./docs/modules/modules.md
         #   hidden: true
         # - pattern: ./docs/modules/**/*
         #   hidden: true
-    - title: Collections
+    - title: Docs
       children:
-        - file: ./docs/collections/collections-main.md
-        - file: ./docs/collections/cytosols.md
-          children:
-           - file: ./docs/collections/cytosols/instance-template/instance.md
-            #  hidden: true
-           - file: ./docs/collections/cytosols/instance-01/instance.md
-            #  hidden: true
+      - title: Collections
+        children:
+          - file: ./docs/collections/collections-main.md
+          - file: ./docs/collections/cytosols.md
+            children:
+            - file: ./docs/collections/cytosols/instance-template/instance.md
+              #  hidden: true
+            - file: ./docs/collections/cytosols/instance-01/instance.md
+              #  hidden: true
 
-          #  - pattern: ./docs/collections/**/*.md
-          #    hidden: true
-        - file: ./docs/collections/cells.md
-        - file: ./docs/collections/assemblies.md
-        - file: ./docs/collections/ants.md
-    - title: Processes
-      children:
-        - file: ./docs/processes/processes-main.md
-        - file: ./docs/processes/cytosols.md
-        - file: ./docs/processes/cells.md
-        - file: ./docs/processes/assemblies.md
-        - file: ./docs/processes/ants.md
-    - title: Modules
-      children:
-        - file: ./docs/modules/modules-main.md
-        - pattern: ./docs/modules/mod-list/**/*.md
-          hidden: true
-        # - pattern: ./docs/collections/**/*
-        #   hidden: true
+            #  - pattern: ./docs/collections/**/*.md
+            #    hidden: true
+          - file: ./docs/collections/cells.md
+          - file: ./docs/collections/assemblies.md
+          - file: ./docs/collections/ants.md
+      - title: Processes
+        children:
+          - file: ./docs/processes/processes-main.md
+          - file: ./docs/processes/cytosols.md
+          - file: ./docs/processes/cells.md
+          - file: ./docs/processes/assemblies.md
+          - file: ./docs/processes/ants.md
+      - title: Modules
+        children:
+          - file: ./docs/modules/modules-main.md
+          - pattern: ./docs/modules/mod-list/**/*.md
+            hidden: true
+          # - pattern: ./docs/collections/**/*
+          #   hidden: true
     - title: Guides
       children:
         - file: ./docs/guides/developer-handbook.md
@@ -66,7 +67,9 @@ project:
         - file: ./docs/about/release-notes.md
           children:
            - file: ./docs/about/release-notes/release-notes-v-0-4-0.md
-             hidden: true
+            #  hidden: true
+        - file: ./docs/guides/license.md
+
           #  - pattern: ./docs/about/release-notes/*
           #    hidden: true
         - file: ./docs/about/faqs.md

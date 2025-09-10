@@ -21,7 +21,7 @@ Learn how to navigate this documentation and build your first cytosols and cells
 
 ::::{grid} 1 1 2 3
 
-:::{card}
+<!-- :::{card}
 :header: Collections
 :link: docs/collections/collections-main.md
 A collection of useful instances of compatible processes and modules
@@ -40,28 +40,28 @@ A process converts a Module into something useful.
 
 A module is a useful biochemical formulation, often incorporating a genetically encoded component. 
 :::
-::::
+:::: -->
 
-```{card} 
+<!-- ```{card} 
 :header: Guides
 User guides for Nucleus Hub and Nucleus Developer Notes live here:
 
 - Making synthetic cells for beginners
 - Nucleus Hub
 - Developer Notes
-```
+``` -->
 
-```{card} 
+<!-- ```{card} 
 :header: Community
 
 - Collaborators
 - Get involved
-```
+``` -->
 
-```{card} 
+<!-- ```{card} 
 :header: About
 
 - About Nucleus
 - [Release Notes](./docs/about/release-notes.md)
 - [FAQs](./docs/about/faqs.md)
-```
+``` -->
