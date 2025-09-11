@@ -10,8 +10,9 @@ The proteins moved through the cytosol like fish through clear water. They had t
 ATP broke apart. Energy flowed. The cell used what it needed. Nothing was wasted. The ribosomes made new proteins. They read the RNA like old fishermen reading the tide. Each amino acid found its place. In the morning, the processes would begin again. They always did. The cell had survived this way for billions of years. It would continue.
 
 - TODO: b.next Nucleus PURE
-- TODO: 1-pot PURE
-- TODO: 36 pot PURE
+- TODO: Make 1-pot PURE
+- TODO: Make 36 pot PURE
+- Assemble PURE reactions
 
 ## Cells
 
