@@ -28,6 +28,7 @@ project:
         #   hidden: true
     - title: Docs
       children:
+      - title: PURE
       - title: Implementations
         children:
           - file: ./docs/collections/collections-main.md
