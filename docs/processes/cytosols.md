@@ -4,6 +4,21 @@ title: Cytosols
 
 :::{card} 
 :header: **Make OnePot PURE** 
+:link: ./make-1pot-pure.md
+
+Reference material for making OnePot PURE protein mix
+:::
+
+
+:::{card} 
+:header: **Make OnePot PURE** 
+:link: make-1pot-pure.md
+
+Reference material for making OnePot PURE protein mix
+:::
+
+:::{card} 
+:header: **Make OnePot PURE** 
 :link: docs/processes/make-1pot-pure.md
 
 Reference material for making OnePot PURE protein mix
