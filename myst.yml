@@ -60,6 +60,7 @@ project:
     - title: Guides
       children:
         - file: ./docs/guides/developer-handbook.md
+        - file: ./docs/guides/contribution-guide.md
         - file: ./docs/guides/nucleus-hub.md
         - file: ./docs/guides/developer-notes.md
     - title: About
