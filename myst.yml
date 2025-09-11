@@ -47,6 +47,9 @@ project:
         children:
           - file: ./docs/processes/processes-main.md
           - file: ./docs/processes/cytosols.md
+            children: 
+            - file: ./docs/processes/assemble-pure-reactions.md
+          
           - file: ./docs/processes/cells.md
           - file: ./docs/processes/assemblies.md
           - file: ./docs/processes/ants.md
