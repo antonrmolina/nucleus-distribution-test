@@ -28,7 +28,7 @@ project:
         #   hidden: true
     - title: Docs
       children:
-      - title: Collections
+      - title: Implementations
         children:
           - file: ./docs/collections/collections-main.md
           - file: ./docs/collections/cytosols.md
