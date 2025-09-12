@@ -2,7 +2,7 @@
 title: Cytosols
 ---
 
-:::{card} 
+<!-- :::{card} 
 :header: **Make OnePot PURE** 
 :link: ./make-1pot-pure.md
 
@@ -22,7 +22,7 @@ Reference material for making 36Pot PURE protein mix
 :link: ./assemble-pure-reactions
 
 Reference material for assembling cytosols from PURE components
-:::
+::: -->
 
 - [Make OnePot PURE](./make-1pot-pure)
 
