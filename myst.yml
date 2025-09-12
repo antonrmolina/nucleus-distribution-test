@@ -48,9 +48,9 @@ project:
         children:
           - file: ./docs/processes/processes-main.md
           - file: ./docs/processes/cytosols.md
-            children:
+            # children:
             # - file: ./docs/processes/make-1pot-pure.md
-            - file: ./docs/processes/make-36pot-pure.md
+            # - file: ./docs/processes/make-36pot-pure.md
             # - file: ./docs/processes/assemble-pure-reactions.md
           
           - file: ./docs/processes/cells.md
