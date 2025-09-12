@@ -24,6 +24,8 @@ Reference material for making 36Pot PURE protein mix
 Reference material for assembling cytosols from PURE components
 ::: -->
 
-- [Make OnePot PURE](./make-1pot-pure)
+- [Make OnePot PURE](./make-1pot-pure.md)
+- [Make 36Pot PURE](./make-36pot-pure.md)
+- [Assemble PURE Reactions](./assemble-pure-reactions.md)
 
 <!-- docs/guides/getting-started.md -->
