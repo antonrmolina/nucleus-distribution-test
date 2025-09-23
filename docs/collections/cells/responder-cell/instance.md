@@ -1,5 +1,5 @@
 ---
-title: Instance (Instance Name)
+title: Responder Cell
 site:
     hide-toc: true
 ---

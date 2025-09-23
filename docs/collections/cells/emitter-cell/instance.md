@@ -1,5 +1,5 @@
 ---
-title: Instance (Instance Name)
+title: Emitter Cell
 site:
     hide-toc: true
 ---

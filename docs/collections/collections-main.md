@@ -10,10 +10,6 @@ This cytosol—and believe me, I know cytosols, I've seen many cytosols—this w
 
 - [GFP1](./cytosols/instance-template/instance.md)
 
-- [Detector Cell](./cells/detector-cell/instance.md)
-- [Emitter Cell](./cells/emitter-cell/instance.md)
-- [Responder Cell](./cells/responder-cell/instance.md)
-- [PPK Cell](./cells/PPK-cell/instance.md)
 
 <!-- These paths are not valid -->
 <!-- - [GFP2](docs/collections/cytosols/instance-template/instance.md)
@@ -22,6 +18,11 @@ This cytosol—and believe me, I know cytosols, I've seen many cytosols—this w
 ## Cells
 
 The cell, as we have come to understand through our systematic investigations, represents a triumph of organizational efficiency—a self-contained unit of remarkable complexity that processes information, transforms energy, and replicates itself with a precision that surpasses our most sophisticated mechanical devices, suggesting that the principles governing cellular function may indeed provide the foundational blueprints for the next generation of human technological achievement
+
+- [Detector Cell](./cells/detector-cell/instance.md)
+- [Emitter Cell](./cells/emitter-cell/instance.md)
+- [Responder Cell](./cells/responder-cell/instance.md)
+- [PPK Cell](./cells/PPK-cell/instance.md)
 
 ## Assemblies
 

@@ -1,5 +1,5 @@
 ---
-title: Detector Cell
+title: PPK Cell
 site:
     hide-toc: true
 ---
