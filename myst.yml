@@ -32,31 +32,26 @@ project:
       - title: Implementations
         children:
           - file: ./docs/collections/collections-main.md
-          - file: ./docs/collections/cytosols.md
+          # - file: ./docs/collections/cytosols.md
             children:
             - file: ./docs/collections/cytosols/instance-template/instance.md
-              #  hidden: true
             - file: ./docs/collections/cytosols/instance-01/instance.md
-              #  hidden: true
-
-            #  - pattern: ./docs/collections/**/*.md
-            #    hidden: true
-          - file: ./docs/collections/cells.md
-          - file: ./docs/collections/assemblies.md
-          - file: ./docs/collections/ants.md
+          # - file: ./docs/collections/cells.md
+          # - file: ./docs/collections/assemblies.md
+          # - file: ./docs/collections/ants.md
       - title: Processes
         children:
           - file: ./docs/processes/processes-main.md
-          - file: ./docs/processes/cytosols.md
+          # - file: ./docs/processes/cytosols.md
             children:
             - file: ./docs/processes/make-1pot-pure.md
             - file: ./docs/processes/make-36pot-pure.md
             - file: ./docs/processes/assemble-pure-reactions.md
-          - file: ./docs/processes/cells.md
-            children: 
+          # - file: ./docs/processes/cells.md
+          #   children: 
             - file: ./docs/processes/assemble-pure-cell.md
-          - file: ./docs/processes/assemblies.md
-          - file: ./docs/processes/ants.md
+          # - file: ./docs/processes/assemblies.md
+          # - file: ./docs/processes/ants.md
       - title: Modules
         children:
           - file: ./docs/modules/modules-main.md
