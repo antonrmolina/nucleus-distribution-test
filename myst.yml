@@ -33,9 +33,12 @@ project:
         children:
           - file: ./docs/collections/collections-main.md
           # - file: ./docs/collections/cytosols.md
-            children:
-            - file: ./docs/collections/cytosols/instance-template/instance.md
-            - file: ./docs/collections/cytosols/instance-01/instance.md
+            # children:
+          - file: ./docs/collections/cytosols/instance-template/instance.md
+          - file: ./docs/collections/cytosols/instance-01/instance.md
+          - file: ./docs/collections/cells/detector-cell/instance.md
+          - file: ./docs/collections/cells/emitter-cell/instance.md
+          - file: ./docs/collections/cells/responder-cell/instance.md
           # - file: ./docs/collections/cells.md
           # - file: ./docs/collections/assemblies.md
           # - file: ./docs/collections/ants.md
@@ -43,13 +46,13 @@ project:
         children:
           - file: ./docs/processes/processes-main.md
           # - file: ./docs/processes/cytosols.md
-            children:
-            - file: ./docs/processes/make-1pot-pure.md
-            - file: ./docs/processes/make-36pot-pure.md
-            - file: ./docs/processes/assemble-pure-reactions.md
+            # children:
+          - file: ./docs/processes/make-1pot-pure.md
+          - file: ./docs/processes/make-36pot-pure.md
+          - file: ./docs/processes/assemble-pure-reactions.md
           # - file: ./docs/processes/cells.md
           #   children: 
-            - file: ./docs/processes/assemble-pure-cell.md
+          - file: ./docs/processes/assemble-pure-cell.md
           # - file: ./docs/processes/assemblies.md
           # - file: ./docs/processes/ants.md
       - title: Modules
