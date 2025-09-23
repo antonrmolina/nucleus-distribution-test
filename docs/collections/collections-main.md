@@ -10,6 +10,11 @@ This cytosol—and believe me, I know cytosols, I've seen many cytosols—this w
 
 - [GFP1](./cytosols/instance-template/instance.md)
 
+- [Detector Cell](./cells/detector-cell/instance.md)
+- [Emitter Cell](./cells/emitter-cell/instance.md)
+- [Responder Cell](./cells/responder-cell/instance.md)
+- [PPK Cell](./cells/PPK-cell/instance.md)
+
 <!-- These paths are not valid -->
 <!-- - [GFP2](docs/collections/cytosols/instance-template/instance.md)
 - [GFP3](./docs/collections/cytosols/instance-template/instance.md) -->
