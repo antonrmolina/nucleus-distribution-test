@@ -35,7 +35,9 @@ Flow chart for building Base Cytosol and its modification through the addition o
 
 - Make protein mix (1-pot)
 - Make protein mix (36-pot)
-- Make ribosomes
+- [Make ribosomes](./cytosols/make-ribosomes/process.md)
+
+<!-- ./cytosols/instance-template/instance.md -->
 
 - TODO: Make 1-pot PURE
 - TODO: Make 36 pot PURE
