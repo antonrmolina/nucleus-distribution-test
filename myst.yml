@@ -32,7 +32,7 @@ project:
           children:
            - file: ./docs/processes/assemble-base-cell/process-make_base_cell.md
              hidden: true
-           - file: ./docs/processes/PPK/process-PPK.md
+           - file: ./docs/processes/ppk/process-PPK.md
              hidden: true
            - file: ./docs/processes/process-template/process-make_template.md
              hidden: true
