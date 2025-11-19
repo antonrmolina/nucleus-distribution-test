@@ -4,6 +4,13 @@ title: Processes
 
 # Overview
 
+Processes describe how to do something in the lab. For example, how to make a Base Cytosol or Cell or how to extend its functionality with Module. A process specification will contain the following information:
+
+- Lab-ready protocol
+- Bill of materials
+
+convert Modules into something useful by building ontop 
+
 ## Base Cell Processes
 
 :::::{tab-set}
@@ -48,7 +55,8 @@ Flow chart for building Base Cytosol and its modification through the addition o
 
 ### Modify Base Cytosol
 
-- [Reporter: Base Cytosol + deGFP](./assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md)
+- [Reporter: Base Cytosol (kit) + deGFP](./assemble-cytosol-from-kit/process-assemble_cytosol_from_kit.md)
+- [Reporter: Base Cytosol + deGFP](./degfp/process-main.md)
 - [Energy: Base Cytosol + PPK]()
 
 ### Make Base Cytosol

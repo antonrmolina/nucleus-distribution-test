@@ -32,6 +32,8 @@ project:
           children:
            - file: ./docs/processes/assemble-base-cell/process-make_base_cell.md
              hidden: true
+           - file: ./docs/processes/degfp/process-main.md
+             hidden: true
            - file: ./docs/processes/process-template/process-make_template.md
              hidden: true
            - file: ./docs/processes/make-amino-acid-mix/process-make_amino_acid_mix.md
